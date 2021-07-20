@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProgrammingBlogPost/static/css/main.cfa08aa7.chunk.css",
+    "main.js": "/ProgrammingBlogPost/static/js/main.3b06438c.chunk.js",
+    "main.js.map": "/ProgrammingBlogPost/static/js/main.3b06438c.chunk.js.map",
+    "runtime-main.js": "/ProgrammingBlogPost/static/js/runtime-main.6bd5c367.js",
+    "runtime-main.js.map": "/ProgrammingBlogPost/static/js/runtime-main.6bd5c367.js.map",
+    "static/js/2.85b7c98e.chunk.js": "/ProgrammingBlogPost/static/js/2.85b7c98e.chunk.js",
+    "static/js/2.85b7c98e.chunk.js.map": "/ProgrammingBlogPost/static/js/2.85b7c98e.chunk.js.map",
+    "index.html": "/ProgrammingBlogPost/index.html",
+    "precache-manifest.13087bd45e1f31a76f6b6e82fcb02df4.js": "/ProgrammingBlogPost/precache-manifest.13087bd45e1f31a76f6b6e82fcb02df4.js",
+    "service-worker.js": "/ProgrammingBlogPost/service-worker.js",
+    "static/css/main.cfa08aa7.chunk.css.map": "/ProgrammingBlogPost/static/css/main.cfa08aa7.chunk.css.map",
+    "static/js/2.85b7c98e.chunk.js.LICENSE": "/ProgrammingBlogPost/static/js/2.85b7c98e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd5c367.js",
+    "static/js/2.85b7c98e.chunk.js",
+    "static/css/main.cfa08aa7.chunk.css",
+    "static/js/main.3b06438c.chunk.js"
+  ]
+}
